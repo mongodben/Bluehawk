@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[4439],{7566:function(a){a.exports=JSON.parse('{"allTagsPath":"/Bluehawk/blog/tags","slug":"/Bluehawk/blog/tags/facebook","name":"facebook","count":1,"permalink":"/Bluehawk/blog/tags/facebook"}')}}]);
